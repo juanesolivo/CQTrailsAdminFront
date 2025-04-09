@@ -1,8 +1,8 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import CityModal from "../components/CityModal"
-import DeleteCityModal from "../components/DeleteCityModal"
+import CityModal from "../components/city-components/CityModal"
+import DeleteCityModal from "../components/city-components/DeleteCityModal"
 import SearchIcon from "@mui/icons-material/Search"
 import AddIcon from "@mui/icons-material/Add"
 import EditIcon from "@mui/icons-material/Edit"

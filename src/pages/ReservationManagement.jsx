@@ -1,8 +1,8 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import ReservationDetailModal from "../components/ReservationDetailModal"
-import ReservationStatusModal from "../components/ReservationStatusModal"
+import ReservationDetailModal from "../components/reservation-components/ReservationDetailModal"
+import ReservationStatusModal from "../components/reservation-components/ReservationStatusModal"
 import SearchIcon from "@mui/icons-material/Search"
 import VisibilityIcon from "@mui/icons-material/Visibility"
 import EditIcon from "@mui/icons-material/Edit"

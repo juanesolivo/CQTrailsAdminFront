@@ -1,9 +1,9 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import RoleModal from "../components/RoleModal"
-import DeleteRoleModal from "../components/DeleteRoleModal"
-import RolePermissionsModal from "../components/RolePermissionsModal"
+import RoleModal from "../components/role-components/RoleModal"
+import DeleteRoleModal from "../components/role-components/DeleteRoleModal"
+import RolePermissionsModal from "../components/role-components/RolePermissionsModal"
 import SearchIcon from "@mui/icons-material/Search"
 import AddIcon from "@mui/icons-material/Add"
 import EditIcon from "@mui/icons-material/Edit"

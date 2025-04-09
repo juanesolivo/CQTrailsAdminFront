@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import logo from "../assets/CQTRAILSLOGO.svg"
+import logo from "../../assets/CQTRAILSLOGO.svg"
 // Importamos los iconos de Material UI
 import DashboardIcon from "@mui/icons-material/Dashboard"
 import PeopleIcon from "@mui/icons-material/People"

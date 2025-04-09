@@ -1,8 +1,8 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import CompanyModal from "../components/CompanyModal"
-import DeleteCompanyModal from "../components/DeleteCompanyModal"
+import CompanyModal from "../components/company-components/CompanyModal"
+import DeleteCompanyModal from "../components/company-components/DeleteCompanyModal"
 import SearchIcon from "@mui/icons-material/Search"
 import AddIcon from "@mui/icons-material/Add"
 import EditIcon from "@mui/icons-material/Edit"

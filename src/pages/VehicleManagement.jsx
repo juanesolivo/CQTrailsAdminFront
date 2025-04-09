@@ -1,8 +1,8 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import VehicleModal from "../components/VehicleModal"
-import DeleteVehicleModal from "../components/DeleteVehicleModal"
+import VehicleModal from "../components/vehicle-components/VehicleModal"
+import DeleteVehicleModal from "../components/vehicle-components/DeleteVehicleModal"
 import SearchIcon from "@mui/icons-material/Search"
 import AddIcon from "@mui/icons-material/Add"
 import EditIcon from "@mui/icons-material/Edit"
